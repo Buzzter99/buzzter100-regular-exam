@@ -24,3 +24,6 @@ jobs:
       
     - name: Run unit tests
       run: npm run test:unit
+
+    - name: Display Softuni Username
+      run: echo "buzzter100"
